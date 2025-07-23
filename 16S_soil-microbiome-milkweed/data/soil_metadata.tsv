@@ -1,0 +1,45 @@
+#SampleID	soil-type	species
+R1	Custer	SP
+R2	Custer	SP
+R3	Custer	SP
+R4	Custer	SP
+R6	Custer	SP
+R7	Custer	SP
+R8	Custer	SP
+O1_1	Sioux Falls	SP
+O2	Sioux Falls	SP
+O3	Sioux Falls	SP
+O4	Sioux Falls	SP
+O5	Sioux Falls	SP
+O6	Sioux Falls	SP
+O7	Sioux Falls	SP
+O8	Sioux Falls	SP
+P1	Custer	SY
+P2	Custer	SY
+P3	Custer	SY
+P4	Custer	SY
+P5	Custer	SY
+P6	Custer	SY
+P7	Custer	SY
+P8	Custer	SY
+P9	Custer	SY
+B9	Custer	SY
+B1	Sioux Falls	SY
+B2	Sioux Falls	SY
+B3	Sioux Falls	SY
+B4	Sioux Falls	SY
+B5	Sioux Falls	SY
+B6	Sioux Falls	SY
+B7	Sioux Falls	SY
+B8	Sioux Falls	SY
+C1	Custer	Control
+C2	Custer	Control
+C3	Custer	Control
+C4	Custer	Control
+C5	Custer	Control
+S1	Sioux Falls	Control
+S2	Sioux Falls	Control
+S3	Sioux Falls	Control
+S4	Sioux Falls	Control
+S5	Sioux Falls	Control
+NTC	None	None_2

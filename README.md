@@ -31,14 +31,16 @@ Although originally intended to target the rhizosphere, the available samples co
 
 ---
 
-## 📁 Repository Structure
+# 📁 Repository Structure
+
+```
 soil-microbiome-milkweed/
 ├── data/           # Metadata and mapping files
 ├── scripts/        # QIIME2 processing and R scripts
 ├── results/        # Plots, tables, and key outputs
 ├── docs/           # Project overview and supplemental info
 └── README.md
-
+```
 ---
 
 ## 📊 Analyses Performed

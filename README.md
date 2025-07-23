@@ -33,12 +33,11 @@ Although originally intended to target the rhizosphere, the available samples co
 
 ## 📁 Repository Structure
 soil-microbiome-milkweed/
-├── data/ # Metadata and mapping files
-├── scripts/ # QIIME2 processing and R scripts
-├── results/ # Plots, tables, and key outputs
-├── docs/ # Project overview and supplemental info
+├── data/           # Metadata and mapping files
+├── scripts/        # QIIME2 processing and R scripts
+├── results/        # Plots, tables, and key outputs
+├── docs/           # Project overview and supplemental info
 └── README.md
-
 
 ---
 
@@ -46,7 +45,7 @@ soil-microbiome-milkweed/
 
 - Quality filtering and ASV generation (DADA2)
 - Taxonomy assignment (16S and ITS)
-- Alpha diversity (Shannon, Observed ASVs)
+- Alpha diversity (Shannon, Observed ASVs, Faith's PD)
 - Beta diversity (PCoA with Bray-Curtis and UNIFRAC distances)
 - PERMANOVA tests
 - Indicator species analysis

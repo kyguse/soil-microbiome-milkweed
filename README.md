@@ -13,6 +13,10 @@ We used **16S rRNA (V4)** and **ITS1 region** amplicon sequencing to investigate
 
 Although originally intended to target the rhizosphere, the available samples consist of **bulk soil surrounding the root zones**.
 
+## 🚧 Project Status: In Progress
+
+This analysis is currently ongoing. Documentation, results, and scripts are being actively developed and refined.
+
 ---
 
 ## 🧪 Methods
